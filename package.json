@@ -38,5 +38,5 @@
     "not op_mini all"
   ],
   "homepage" : "https://jacobsladdertest.herokuapp.com",
-  "proxy": "https://jacobsladder.herokuapp.com/"
+  "proxy": "https://jacobsladder.herokuapp.com:4200"
 }
