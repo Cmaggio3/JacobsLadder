@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/JacobsLadder/precache-manifest.e39df80e5a0253f0695fd58d8df97338.js"
+  "/JacobsLadder/precache-manifest.6fc89fdb92a45341cee1c5b440460230.js"
 );
 
 workbox.clientsClaim();
